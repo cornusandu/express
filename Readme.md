@@ -47,7 +47,8 @@ app.listen(3000, () => {
 
 ## Installation
 
-oneline
+myname_here
+
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
 
